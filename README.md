@@ -32,6 +32,11 @@ To ask questions/doubts, please create an issue on github repo: https://github.c
 
 And Subscribe to my youtube channel: https://bit.ly/abhitubesub
 
+-------
+
+All datasets have references in the book. They are also uploaded here: https://www.kaggle.com/abhishek/aaamlp
+
+pneumothorax png: https://www.kaggle.com/abhishek/siim-png-images
 
 -------
 
